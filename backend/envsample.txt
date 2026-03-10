@@ -1,2 +1,0 @@
-# GEMINI_API_KEY=Your_api_key_here
-# PORT=https://ai-code-reviewer-efte.onrender.com/
